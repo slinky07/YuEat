@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">YuEat</string>
+
+    <string name="category_Des">something</string>
+    <string name="burger_beef_des">YuEat</string>
+    <string name="burger_chicken_des">YuEat</string>
+    <string name="burger_fried_des">YuEat</string>
+    <string name="sandwich_des">YuEat</string>
+    <string name="banks_beer_des">YuEat</string>
+    <string name="corona_des">YuEat</string>
+    <string name="cute_drink_des">YuEat</string>
+    <string name="espresso_des">YuEat</string>
+    <string name="fish_cake_special_des">YuEat</string>
+    <string name="fish_cake_stick_des">YuEat</string>
+    <string name="fish_cake_des">YuEat</string>
+    <string name="fish_cake_herbs_des">YuEat</string>
+    <string name="salmon_des">YuEat</string>
+    <string name="jerky_chicken_des">YuEat</string>
+    <string name="jerky_beef_des">YuEat</string>
+    <string name="jamaican_jerky_des">YuEat</string>
+    <string name="jerky_ribs_des">YuEat</string>
+    <string name="jerky_des">YuEat</string>
+    <string name="famous_jerky_jamaican_des">YuEat</string>
+    <string name="pepper_steak_des">YuEat</string>
+    <string name="grilled_ribeye_des">YuEat</string>
+    <string name="jamaican_jerk_steak_des">YuEat</string>
+    <string name="jamaican_ribeye_steak_des">YuEat</string>
+    <string name="fried_chicken_des">YuEat</string>
+    <string name="ggrilled_prawn_des">YuEat</string>
+    <string name="jamaican_chicken_curry_des">YuEat</string>
+    <string name="kebab_jamaican_des">YuEat</string>
+    <string name="whole_chicken_des">YuEat</string>
+
+    <string name="quantity">Quantity</string>
+    <string name="description">Description</string>
+    <string name="button">Add To Cart</string>
+    <string name="total">Total:</string>
+    <string name="button_text">SEE CART</string>
+
+    <string name="item_name">Item Name</string>
+    <string name="num">Num</string>
+    <string name="monies">$$</string>
+    <string name="total_list">total</string>
+    <string name="clear">clear</string>
+</resources>
