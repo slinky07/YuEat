@@ -9,7 +9,9 @@
         <entry key="app/src/main/res/layout/activity_food_list.xml" value="0.3352203369140625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.12106984456380208" />
         <entry key="app/src/main/res/layout/cart_list_items.xml" value="0.3500986735026039" />
+        <entry key="app/src/main/res/layout/drawer_header.xml" value="0.34302520751953125" />
         <entry key="app/src/main/res/layout/list_items.xml" value="0.31376953125" />
+        <entry key="app/src/main/res/menu/drawer.xml" value="2.772222222222222" />
       </map>
     </option>
   </component>

@@ -42,4 +42,7 @@
     <string name="monies">$$</string>
     <string name="total_list">total</string>
     <string name="clear">clear</string>
+    <string name="food_menu">Food Menu</string>
+    <string name="orders">Orders</string>
+    <string name="my_collection">My Collection</string>
 </resources>
